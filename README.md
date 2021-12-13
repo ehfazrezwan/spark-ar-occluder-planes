@@ -33,7 +33,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Spark AR - Into David Occluder Plane Face Filter</h3>
+  <h3 align="center">Spark AR - "Into David" Occluder Plane Face Filter</h3>
 
   <p align="center">
   Using Spark AR to create animated face filters for Instagram, Facebook and Messenger.
